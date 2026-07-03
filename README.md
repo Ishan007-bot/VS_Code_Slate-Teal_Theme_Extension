@@ -1,10 +1,7 @@
-<!-- Badges: these auto-populate once published. Replace PUBLISHER with your Marketplace publisher ID. -->
-<!--
-[![Version](https://img.shields.io/visual-studio-marketplace/v/PUBLISHER.slate-teal)](https://marketplace.visualstudio.com/items?itemName=PUBLISHER.slate-teal)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/PUBLISHER.slate-teal)](https://marketplace.visualstudio.com/items?itemName=PUBLISHER.slate-teal)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/PUBLISHER.slate-teal)](https://marketplace.visualstudio.com/items?itemName=PUBLISHER.slate-teal)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/PUBLISHER.slate-teal)](https://marketplace.visualstudio.com/items?itemName=PUBLISHER.slate-teal)
--->
+[![Version](https://img.shields.io/visual-studio-marketplace/v/IshanGanguly.slate-teal)](https://marketplace.visualstudio.com/items?itemName=IshanGanguly.slate-teal)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/IshanGanguly.slate-teal)](https://marketplace.visualstudio.com/items?itemName=IshanGanguly.slate-teal)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/IshanGanguly.slate-teal)](https://marketplace.visualstudio.com/items?itemName=IshanGanguly.slate-teal)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/IshanGanguly.slate-teal)](https://marketplace.visualstudio.com/items?itemName=IshanGanguly.slate-teal)
 
 # Slate Teal
 
