@@ -1,0 +1,26 @@
+{
+  "name": "slate-teal",
+  "displayName": "Slate Teal",
+  "description": "A calm dark theme with a slate-navy background and teal-cyan accents.",
+  "version": "0.0.1",
+  "publisher": "local",
+  "repository": {
+    "type": "git",
+    "url": "https://example.com/slate-teal.git"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Slate Teal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slate-teal-color-theme.json"
+      }
+    ]
+  }
+}
