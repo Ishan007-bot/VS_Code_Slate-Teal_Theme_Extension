@@ -3,16 +3,37 @@
   "displayName": "Slate Teal",
   "description": "A calm dark theme with a slate-navy background and teal-cyan accents.",
   "version": "0.0.1",
-  "publisher": "local",
+  "publisher": "REPLACE_WITH_YOUR_PUBLISHER_ID",
+  "author": {
+    "name": "Ishan Ganguly"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0f1720",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
-    "url": "https://example.com/slate-teal.git"
+    "url": "https://github.com/Ishan007-bot/VS_Code_Slate-Teal_Theme_Extension.git"
   },
+  "bugs": {
+    "url": "https://github.com/Ishan007-bot/VS_Code_Slate-Teal_Theme_Extension/issues"
+  },
+  "homepage": "https://github.com/Ishan007-bot/VS_Code_Slate-Teal_Theme_Extension#readme",
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "teal",
+    "slate",
+    "color theme"
   ],
   "contributes": {
     "themes": [
